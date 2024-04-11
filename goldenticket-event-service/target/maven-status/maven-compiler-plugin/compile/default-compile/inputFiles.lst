@@ -1,0 +1,16 @@
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/persistence/EventType.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/api/v1/EventResource.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/controller/EventController.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/persistence/GoldenTicketEntity.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/persistence/Event.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/config/GoldenTicketEventConfig.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/GoldenTicketEventService.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/persistence/EventService.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/exception/ResourceNotFoundException.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/persistence/EventRepository.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/service/EventApiService.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/api/client/EventApi.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/controller/EventMapper.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/api/EventEndpoints.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/api/v1/IdResource.java
+/Users/stephen/Documents/programming/sideProjects/tempShite/goldenticket/goldenticket-event-service/src/main/java/com/goldenticket/event/utils/EventUtils.java

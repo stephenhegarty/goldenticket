@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.goldenticket.event.persistence.EventServiceTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.379 s -- in com.goldenticket.event.persistence.EventServiceTest
